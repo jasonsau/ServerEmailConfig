@@ -1,0 +1,3 @@
+default._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0iiTFbeFsRSeoZjl8a9OemrWddsQRT74K6a48vpbrtjqIEyYZeHv40YptIHtNCx8st7ccEwxxhLBeO6s8WrdtPnwbDXq1nvJJyz7cW4pBwCh3YVnUb8REg62FDa9onDqXJurfF+m3RfupUlHG9S0VKxOkhVJms6SuTx0mFBcmW7F5+cfJJv0AyHQCBgiytw3wcrmoJ7s5LKqWB"
+	  "w/FohkWLZ6eDBaoVTT5+Ny7+u0Mihu4i0D8T6mf+CMNWhFbbYxK8mvuYOAy9NK8XBd5Crt0gnv2c4YWw8v3L7bs1/31fRcd9TSN4KZq7Vfn0c9ubEkOufdBEiig2nthtB+2xy2BQIDAQAB" )  ; ----- DKIM key default for enginetech.store
