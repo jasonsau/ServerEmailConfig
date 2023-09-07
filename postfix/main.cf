@@ -748,5 +748,5 @@ smtp_tls_ciphers = high
 smtp_tls_mandatory_protocols = TLSv1.1, TLSv1.2
 ####smtp_tls_protocols = TLSv1.1 TLSv1.2
 
-#content_filter = smtp-amavis:[127.0.0.1]:10024
+content_filter = smtp-amavis:[127.0.0.1]:10024
 
