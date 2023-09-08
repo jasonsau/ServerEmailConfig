@@ -1,1 +1,2 @@
 default._domainkey.enginetech.store enginetech.store:default:/etc/opendkim/keys/enginetech.store/default.private
+default._domainkey.virtual.enginetech.store virtual.enginetech.store:default:/etc/opendkim/keys/enginetech.store/default.private
